@@ -1,0 +1,22 @@
+* {
+  height: fit-content;
+}
+
+.container {
+  position: relative;
+  justify-content: center;
+  background-color: rgb(43, 15, 15);
+  height: 100%;
+}
+
+.square {
+  background-color: #0000ff;
+  justify-content: center;
+  height: 500px;
+  width: 500px;
+  margin: 0px 10px;
+}
+
+#square2 {
+  background-color: #ca2d2d;
+}
