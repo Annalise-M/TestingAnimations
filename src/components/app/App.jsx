@@ -14,7 +14,6 @@ export default function App() {
   const square1 = React.createRef();
   const square2 = React.createRef();
 
-  
 
   useEffect(() => { 
     Draggable.create('.square1', {
